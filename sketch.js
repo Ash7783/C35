@@ -7,7 +7,6 @@ function preload() {
   //load images here
   dogImg = loadImage("dogImg.png")
   happyDog = loadImage("dogImg1.png")
-  milkImage = loadImage("Milk.png")
 }
 
 function setup() {
